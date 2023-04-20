@@ -1,0 +1,71 @@
+body{
+	margin: 0;
+}
+.container{
+	background: lightgray;
+	border: solid;
+	min-height: 1200px;
+	
+	margin: 0% 20% 0% 20%;
+}
+.header{
+	
+	min-height: 200px;
+	display: flex;
+	justify-content: space-around;
+}
+.photo{
+	
+	min-height: 200px;
+	width: 30%;
+}
+.contacts{
+	
+	min-height: 200px;
+	width: 65%;
+}
+.goal{
+	margin: 20px;
+}
+.skills{
+	margin: 20px;
+}
+.education{
+	margin: 20px;
+}
+h1{
+	color: #B02608;
+	line-height: 5px;
+}
+h2{
+	
+}
+.string{
+	line-height: 15px;
+}
+.myPhoto{
+	height: 350px;
+	width: 270px;
+}
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+}
+.courses{
+	margin: 20px;
+}
+.links{
+	color: #B02608 ;
+}
+.heading_color{
+	color:#B02608 ;
+}
+.languages{
+	margin: 20px;
+}
+.personal_details{
+	margin: 20px;
+}
